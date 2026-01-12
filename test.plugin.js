@@ -1,6 +1,6 @@
 /**
 * @name RoleExplorer
-* @author DaddyBoard
+* @author DaddyBoard2
 * @authorId 241334335884492810
 * @version 1.0.7
 * @description View the members of roles in a popout. Remake of RoleMembers by Zerebos.
