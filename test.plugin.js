@@ -2,7 +2,7 @@
 * @name RoleExplorer
 * @author DaddyBoard2
 * @authorId 241334335884492810
-* @version 1.0.8
+* @version 1.0.9
 * @description View the members of roles in a popout. Remake of RoleMembers by Zerebos.
 * @source https://github.com/DaddyBoard/BD-Plugins
 * @invite ggNWGDV7e2
